@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'cancan'
 gem 'devise'
 gem 'foundation-rails'
+gem 'omniauth-facebook'
 gem 'rolify'
 gem 'simple_form'
 gem 'therubyracer', :platform=>:ruby
